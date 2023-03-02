@@ -1,6 +1,3 @@
-[submodule "components/arduino_tinyusb/--force"]
-	path = components/arduino_tinyusb/--force
-	url = https://github.com/hathach/tinyusb.git
 [submodule "components/arduino_tinyusb/tinyusb"]
 	path = components/arduino_tinyusb/tinyusb
 	url = https://github.com/hathach/tinyusb.git
